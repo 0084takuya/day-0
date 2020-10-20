@@ -2,4 +2,4 @@ p 'hello world!'
 
 p 1 + 3
 
-p 2 * 8
+p 2 / 8
